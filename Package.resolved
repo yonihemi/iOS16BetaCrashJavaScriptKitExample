@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JavaScriptKit",
+        "repositoryURL": "https://github.com/swiftwasm/JavaScriptKit.git",
+        "state": {
+          "branch": "main",
+          "revision": "f1ef51771550469c653f89060f8ad5a47b04ee55",
+          "version": null
+        }
+      },
+      {
+        "package": "WebAPIKit",
+        "repositoryURL": "https://github.com/swiftwasm/WebAPIKit.git",
+        "state": {
+          "branch": "main",
+          "revision": "19229a9980998e2d00584010e7c0956a7298e987",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
